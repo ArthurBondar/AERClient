@@ -96,7 +96,6 @@ bool AERClient::wifiConnected()
         return true;
 }
 
-
 //
 //  Reconnecting to MQTT broker
 //
