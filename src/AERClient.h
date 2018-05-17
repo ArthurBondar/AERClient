@@ -1,6 +1,6 @@
 /*
    Library to Interface with IoT server AERLab over MQTT
-   Date: Feb 24, 2017
+   Date: May 17, 2017
    Author: Arthur Bondar
    Email: arthur.bondar.1@gmail.com
 */
@@ -47,4 +47,3 @@ class AERClient
 };
 
 #endif
-
